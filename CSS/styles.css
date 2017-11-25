@@ -1,5 +1,6 @@
 body {
   background-color: Grey;
+  background-image: url("welcome home.jpeg");
 }
 h1 {
   color: lightblue;
@@ -8,4 +9,7 @@ h1 {
 p {
   color: red;
   font-size: 25px;
+}
+li{
+  font-size: 20px;
 }
