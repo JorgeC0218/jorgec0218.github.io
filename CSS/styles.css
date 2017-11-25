@@ -1,10 +1,14 @@
 body {
-  background-color: Grey;
+  background-color: grey;
   background-image: url("welcome home.jpeg");
 }
 h1 {
   color: lightblue;
   text-align: center;
+}
+h2 {
+  text-align: center;
+  color: lightblue;
 }
 p {
   color: red;
