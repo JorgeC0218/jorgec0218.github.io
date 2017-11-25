@@ -1,19 +1,31 @@
 body {
   background-color: grey;
-  background-image: url("welcome home.jpeg");
+  background-image: url("wallpaper.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   color: lightblue;
   text-align: center;
+  font-family: serif;
 }
 h2 {
   text-align: center;
   color: lightblue;
+  font-family: serif;
 }
 p {
   color: red;
-  font-size: 25px;
+  font-size: 30px;
+  font-family: serif;
 }
 li{
-  font-size: 20px;
+  color: lightblue;
+  font-size: 25px;
+}
+a {
+  color: hotpink;
+  text-decoration: none;
+
 }
