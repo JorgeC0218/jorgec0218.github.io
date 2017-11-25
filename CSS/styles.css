@@ -1,5 +1,9 @@
+body {
+  background-color: Grey;
+}
 h1 {
   color: lightblue;
+  text-align: center;
 }
 p {
   color: red;
